@@ -1,10 +1,8 @@
 #!/bin/bash
+
 # outputs the time every x seconds for y times
-# $ ./current-time.sh 3 1  /  use this for ordered variable input
-
-
-
-
+# How to input the ordered variables:
+# <$ ./current-time.sh 3 1>
 # read -p "   " variable is a oneliner for input
 # the while loop check for empty variables
 
