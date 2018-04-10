@@ -2,7 +2,7 @@
 
 # outputs the time every x seconds for y times
 # How to input the ordered variables:
-# <$ ./current-time.sh 3 1>
+# <$ ./current_time.sh 3 1>
 # read -p "   " variable is a oneliner for input
 # the while loop check for empty variables
 
